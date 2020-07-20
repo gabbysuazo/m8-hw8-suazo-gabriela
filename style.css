@@ -12,4 +12,5 @@ div {
     width: 50%;
     height: 50vh;
     background-color: pink;
+    position: absolute;
 }
